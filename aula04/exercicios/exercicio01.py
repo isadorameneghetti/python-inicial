@@ -1,0 +1,1 @@
+pessoa = [{'nome': 'Isadora', 'idade': 20, 'cidade': 'São Paulo'}]
