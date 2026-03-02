@@ -148,7 +148,7 @@ def opcao_invalida():
     Inputs:
     - Nenhum.
     '''
-    print('Opção inválida')
+    iniciar_opcao('Opção inválida')
     
     voltar_menu()
 
